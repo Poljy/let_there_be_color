@@ -1,4 +1,4 @@
-# let_there_be_color
+# "Let there be color !" - Course Project, Master MVA
 
 Project for the course "Introduction à l'Imagerie Numérique" (Y. Gousseau, J. Delon) of the Master MVA (2020-2021).
 
